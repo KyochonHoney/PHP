@@ -4,6 +4,7 @@ __
 * 사진 다운받기
 * CANVAS
 * 메모장
+* Google Map API
 * 등등 PHP코드 익숙해지기 및 배우기
 * xampp controller를 사용한 MYSQL + PHP7
 
